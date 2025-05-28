@@ -3,7 +3,7 @@
   "name": "ConsumerRights.Wiki",
   "version": "1.0",
 
-  "description": "Checks the current company site for any violations on repair.wiki",
+  "description": "Checks the current company site for any violations on consumerrights.wiki",
 
   "icons": {
     "48": "icons/border-48.png"
