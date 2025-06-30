@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
   "name": "ConsumerRights.Wiki",
-  "version": "1.0",
+  "version": "0.1",
 
   "description": "Checks the current company site for any violations on consumerrights.wiki",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/CRWLogo.resized.png"
   },
 
   "content_scripts": [
@@ -19,7 +19,7 @@
   "browser_action": {
     "browser_style": true,
     "default_icon": {
-       "48": "icons/border-48.png"
+       "48": "icons/CRWLogo.resized.png"
     },
     "default_title": "ConsumerRights.Wiki",
     "default_popup": "/popup.html"
