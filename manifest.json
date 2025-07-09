@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "ConsumerRights.Wiki",
-  "version": "0.1",
+  "version": "0.2",
 
   "description": "Checks the current company site for any violations on consumerrights.wiki",
 
